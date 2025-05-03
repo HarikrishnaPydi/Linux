@@ -1,6 +1,6 @@
 # Ultimate Linux Guide
 
-This repository is created to serve as a revision notes for the course created by **HARIKRISHNA PYDI**(`HarikrishnaPYDI` on GitHub).
+This repository is created to serve as a revision notes for the course created by **HARIKRISHNA PYDI**(`HarikrishnaPydi` on GitHub).
 
 Following topics are covered as part of the course and documentation.
 
